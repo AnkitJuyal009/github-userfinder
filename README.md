@@ -1,3 +1,8 @@
+## Project Link✔
+(https://condescending-hamilton-40ed1d.netlify.app/)
+
+Tech Used👩‍💻 : ReactJS, TailwindCSS, Netlify (for deployment)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
